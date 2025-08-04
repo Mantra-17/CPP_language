@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Editor settings
+.vscode/
+
+# Compiled files
+*.exe
+*.o
+*.out
+
+# Build directory
+build/
+
+# Logs and temp files
+*.log
+*.tmp
